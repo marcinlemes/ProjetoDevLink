@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-    <img alt="projeto DevLinks" src="./assets/capa.png>" width="100%">
+    <img alt="projeto DevLinks" src="./assets/capa.jpg>" width="100%">
 </p>
 
 
